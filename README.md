@@ -1,1 +1,5 @@
-![](resenie/main.pdf)
+![page-1 (1).jpg](resources%2Fpage-1%20%281%29.jpg)
+![page-1 (2).jpg](resources%2Fpage-1%20%282%29.jpg)
+![page-1 (3).jpg](resources%2Fpage-1%20%283%29.jpg)
+![page-1 (4).jpg](resources%2Fpage-1%20%284%29.jpg)
+![page-1 (5).jpg](resources%2Fpage-1%20%285%29.jpg)
