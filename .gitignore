@@ -1,0 +1,12 @@
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Office lock files
+~$*
+
+# Local environment and tooling
+.env
+__pycache__/
+node_modules/
